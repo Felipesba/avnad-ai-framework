@@ -1,3 +1,10 @@
-# PILAR 4 CORE AI
+# Pilar 4 – Core AI
 
-Este diretório contém demos e casos relacionados a este pilar.
+Fundamentos técnicos que permitem o uso escalável e seguro de IA na organização.
+
+## Subtemas
+
+- **Infraestrutura de Dados e Nuvem**: Plataforma de dados moderna, cloud e data mesh.
+- **MLOps e Ferramentas de IA**: Deploy, versionamento, automação de ciclo de vida de modelos.
+- **Arquitetura Escalável**: Integração via APIs, microsserviços, reuso de modelos.
+- **Segurança e Resiliência em IA**: Monitoramento, explicabilidade, proteção de modelos.
